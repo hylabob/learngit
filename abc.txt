@@ -1,5 +1,9 @@
 ﻿git is not a new system now!
 add a new line!
-remove the third line!
+remain the third line!
 
 add for branch learning!
+
+fight for conflict!
+
+fight for conflict2!
